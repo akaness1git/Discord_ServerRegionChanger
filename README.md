@@ -1,5 +1,6 @@
 # Discord_ServerRegionChanger  
-Discordのサーバーリージョンをコマンドで変更してくれるbot
+Discordのサーバーリージョンをコマンドで変更してくれるbot  
+note URL:https://note.mu/akaness_note/n/n6885f1abe02b  
   
 サーバーリージョン変更コマンド  
 !region london  
